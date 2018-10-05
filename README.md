@@ -11,6 +11,6 @@ $XRP_BUYIN = 0.475;
 ```
 
 ## Information
-The top of the application will display your wallet's total and will be green for profit or red for loss. Below is a simple table showing what your wallet **started** at and the amount of change from your starting balance to the current balance.
+The top of the application will display your wallet's total and will be green for profit or red for loss. Below is a simple table showing your wallet's **initial balance** and the amount of change to the current balance.
 
-Below that information is a basic high/lowe within a year and a simple graph of 2 months of data.
+Below that is the highest & lowest balances of your wallet as well as a graph showing your balance over the last 2 months.
