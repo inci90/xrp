@@ -7,7 +7,7 @@ This application is not intended to be used for any financial/trading decisions.
 
 // Enter Credentials Here:
 // -----------------------
-$XRP_TITLE = "My XRP Wallet";
+$XRP_TITLE = "Bianca XRP Wallet";
 $XRP_COUNT = 10;
 $XRP_BUYIN = 0.475;
 // -----------------------
