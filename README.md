@@ -1,6 +1,5 @@
 # XRP
-_This application is not intended for financial/trading decisions._
-
+https://xrp-wallet.herokuapp.com/
 
 ## Setup
 Edit the "index.php" file by entering a title, the amount of XRP you own, and the buy-in price of the XRP. CSS and Javascript are inline, no external files are needed except for favicons & touch icons (if you'd like them).
